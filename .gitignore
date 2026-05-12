@@ -10,3 +10,5 @@ Thumbs.db
 
 credenziali_database.properties
 !release/credenziali_database.properties
+schema_database.sql
+!release/schema_database.sql
