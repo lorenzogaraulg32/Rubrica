@@ -1,21 +1,12 @@
-# IntelliJ IDEA
 .idea/
 *.iml
 *.iws
 *.ipr
-
-# Maven build
 target/
-
-# Java compiled files
 *.class
-
-# Logs
 *.log
-
-# OS files
 .DS_Store
 Thumbs.db
 
-# Database credentials reali
 credenziali_database.properties
+!release/credenziali_database.properties
